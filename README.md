@@ -1,6 +1,6 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 ---
-# Roll-Dice-in-High-Fidelity-3D
+# Roll Dice in High-Fidelity 3D
 
 Rolling dice virtually is not the same experience as rolling dice physically. It just doesn't feel real. The dice do not appear to tumble or make sounds. This disconnected experience makes one suspect that maybe these on-line dice are not really random.
 
