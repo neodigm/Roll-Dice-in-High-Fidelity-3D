@@ -8,6 +8,13 @@ It would be great to recreate the experience of actually rolling dice in the bro
 
 In this article I introduce a gamified micro-interaction in which dice are virtually rolled by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll results are achieved through the high entropy of the Web Crypto API.
 
+
+<p align="center">
+  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_1.jpg" title="Interactive 3D">
+  </a>
+</p>
+
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
