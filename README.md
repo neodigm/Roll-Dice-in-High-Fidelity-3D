@@ -14,7 +14,7 @@ I prefer to answer the "Why" it terms of business value.
 
 1). The PWA proposition: It's not uncommon for companies to create a web app, an iPhone app, and an Android app. When management is convinced that a web app can be just as engaging as native they will decide to focus on the web app and get to market quicker. I believe that this type of project prove the engagement value of browser APIs.
 
-2). The argument for Gamification: Framing a business touch-point as a game has the potential to differentiate, engage, and persuade like nothing else.
+2). The argument for Gamification: Framing a customer touch-point as a playful game has the potential to differentiate, engage, and persuade like nothing else.
 
 3). Asset Branding: I am doing this because it allows me to integrate emerging browser APIs in such a way that I have a slick deliverable to demonstrate when I am done.
 
