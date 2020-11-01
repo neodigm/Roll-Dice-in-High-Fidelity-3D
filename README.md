@@ -1,6 +1,6 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 ---
-# Roll-Dice-in-High-Fidelity-3D
+# Roll Dice in High-Fidelity 3D
 
 
 [Portfolio Blog](https://www.theScottKrause.com) |
