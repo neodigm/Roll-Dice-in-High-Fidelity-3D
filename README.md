@@ -2,9 +2,14 @@
 ---
 # Roll Dice in High-Fidelity 3D
 
+Rolling dice virtually is not the same experience as rolling dice physically. It just doesn't feel real. The dice do not appear to tumble or make sounds. This disconnected experience makes one suspect that maybe these on-line dice are not really random.
+
+It would be great to recreate the experience of actually rolling dice in the browser. It would be like marathon Monopoly with your friends. It would be like Vegas baby!
+
+In this article I introduce a gamified micro-interaction in which dice are virtually rolled by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll results are achieved through the high entropy of the Web Crypto API.
 
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
+[🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
