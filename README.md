@@ -8,6 +8,15 @@ It would be great to recreate the experience of actually rolling dice in the bro
 
 In this article I introduce a gamified micro-interaction in which dice are virtually rolled by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll result is achieved through the high entropy of the Web Crypto API.
 
+"Why?", you might and should ask.
+
+I prefer to answer the "Why" it terms of business value.
+
+1). The PWA proposition: It's not uncommon for companies to create a web app, an iPhone app, and an Android app. When management is convinced that a web app can be just as engaging as native they will decide to focus on the web app and get to market quicker. I believe that this type of project prove the engagement value of browser APIs.
+
+2). The argument for Gamification: Framing a business touch-point as a game has the potential to differentiate, engage, and persuade like nothing else.
+
+3). Asset Branding: I am doing this because it allows me to integrate emerging browser APIs in such a way that I have a slick deliverable to demonstrate when I am done.
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
