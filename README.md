@@ -15,7 +15,7 @@ In this article I introduce a gamified micro-interaction in which dice are rolle
 </p>
 
 "Why?", you might and should ask.
-I prefer to answer the "Why" it terms of business value.
+I prefer to answer the "Why" in terms of business value.
 
 1). The PWA proposition: It is not uncommon for companies to create a web app, an iPhone app, and an Android app. When management is convinced that a web app can be just as engaging as native they will decide to focus solely on the web app and get to market much quicker. I believe that this project proves beyond doubt the immersive potential of browser APIs.
 
