@@ -19,6 +19,12 @@ I prefer to answer the "Why" it terms of business value.
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
+  </a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
   <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_1.webp" title="Interactive 3D">
   </a>
 </p>
