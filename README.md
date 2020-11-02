@@ -8,6 +8,12 @@ It would be great to recreate the experience of actually rolling dice in the bro
 
 In this article I introduce a gamified micro-interaction in which dice are rolled virtually by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll result is achieved through the high entropy of the Web Crypto API.
 
+<p align="center">
+  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
+  </a>
+</p>
+
 "Why?", you might and should ask.
 I prefer to answer the "Why" it terms of business value.
 
@@ -16,12 +22,6 @@ I prefer to answer the "Why" it terms of business value.
 2). The argument for Gamification: Framing customer touch-points as playful games has the potential to differentiate, engage, and persuade like nothing else.
 
 3). Asset Branding: I am doing this because it allows me to integrate emerging browser APIs in such a way that I have a slick deliverable to demonstrate when I am done.
-
-<p align="center">
-  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
-  </a>
-</p>
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
