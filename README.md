@@ -3,6 +3,7 @@
   <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
   </a>
 </p>
+
 ---
 # Roll Dice in High-Fidelity 3D
 
