@@ -1,4 +1,8 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
+<p align="center">
+  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
+  </a>
+</p>
 ---
 # Roll Dice in High-Fidelity 3D
 
@@ -10,7 +14,7 @@ In this article I introduce a gamified micro-interaction in which dice are rolle
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_1.webp" title="Interactive 3D">
   </a>
 </p>
 
@@ -23,11 +27,6 @@ I prefer to answer the "Why" in terms of business value.
 
 3). Asset Branding: I am doing this because it allows me to integrate emerging browser APIs in such a way that I have a slick deliverable to demonstrate when I am done.
 
-<p align="center">
-  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_1.webp" title="Interactive 3D">
-  </a>
-</p>
 
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
