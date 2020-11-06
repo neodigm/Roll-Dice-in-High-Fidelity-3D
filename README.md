@@ -1,6 +1,6 @@
 <p align="center">
-  <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive 3D">
+  <a target="_blank" href="https://thescottkrause.com/emerging_tech/gameification-threejs-webcrypto-accelerator-blender-gltf/">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive Gamified 3D JavaScript">
   </a>
 </p>
 
