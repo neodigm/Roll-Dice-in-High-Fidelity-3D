@@ -11,7 +11,7 @@ Rolling dice virtually is not the same experience as rolling dice physically. It
 
 It would be great to recreate the experience of actually rolling dice in the browser. It would be reminiscent of marathon Monopoly with your friends. It would be like Vegas baby!
 
-In this article I introduce a gamified micro-interaction in which dice are rolled virtually by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll result is achieved through the high entropy of the Web Crypto API.
+In [this article] (https://thescottkrause.com/emerging_tech/gameification-threejs-webcrypto-accelerator-blender-gltf/) I introduce a gamified micro-interaction in which dice are rolled virtually by shaking the phone. The sensation is complete with haptic feedback making it seem like the bones are rattling in your sweaty palm. The mathematical integrity of the roll result is achieved through the high entropy of the Web Crypto API.
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
