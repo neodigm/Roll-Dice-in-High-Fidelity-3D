@@ -22,7 +22,7 @@ In [this article](https://thescottkrause.com/emerging_tech/gameification-threejs
 "Why?", you might and should ask.
 I prefer to answer the "Why" in terms of business value.
 
-1). The PWA proposition: It is not uncommon for companies to create a web app, an iPhone app, and an Android app. When management is convinced that a web app can be [just as engaging](https://developers.google.com/web/updates/capabilities) as native they will decide to focus solely on the web app and get to market much quicker. I believe that this project proves beyond doubt the immersive potential of browser APIs.
+1). The PWA proposition: It is not uncommon for startups to develop a web app, an iPhone app, and an Android app. When management is convinced that a web app can be [just as engaging](https://developers.google.com/web/updates/capabilities) as native they will decide to focus solely on the web app and get to market much quicker (PWA=MVP). I believe that this project proves beyond doubt the immersive potential of browser APIs.
 
 2). The argument for Gamification: Framing customer touch-points as playful games has the potential to differentiate, engage, and persuade like nothing else.
 
