@@ -46,6 +46,21 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="22" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="22" alt="3d dice">
+<br>
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvw.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="33" alt="3d dice">
 </p>
 </details>
 
