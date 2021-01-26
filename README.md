@@ -33,10 +33,19 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg" width="55" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="55" alt="Vivid Vector Skulduggery">
 <br>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="55" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="55" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="55" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="55" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvm.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="22" alt="3d dice">
 </p>
 </details>
 
