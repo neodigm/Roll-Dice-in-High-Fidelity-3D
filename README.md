@@ -85,6 +85,24 @@ High Entropy Dice Roll
 
 The web crypto API provides pretty good random numbers. The numbers have greater entropy and less bias. Here is a simple function that returns a random whole number between 1 and 6. Digital computers struggle to produce quality random numbers. They need a seed that represents something that is truly random like a dice throw. See how I brought it full circle. A computer needs a physical representation to create a true random value, even a digital dice would benefit from a physical dice throw. It’s a self referencing meta rabbit hole thought experiment.
 
+```javascript
+function getCryptoRange(min, max) {
+    const range = max - min + 1
+    const mBits = Math.ceil(Math.log2(range))
+    const mBytes = Math.ceil(mBits / 8)
+    const nAllowed = Math.floor((256 ** mBytes) / range) * range
+    const arBytes = new Uint8Array(mBytes)
+    let value
+    do {
+        crypto.getRandomValues(arBytes)
+        value = arBytes.reduce((acc, x, n) => acc + x * 256 ** n, 0)
+    } while (value >= nAllowed)
+    return min + value % range
+}
+
+console.log( getCryptoRange( 1, 6 ))
+```
+
 
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
