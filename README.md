@@ -81,7 +81,7 @@ I prefer to answer the "Why" in terms of business value.
 
 3). Asset Branding: I am doing this because it allows me to integrate emerging browser APIs in such a way that I have a slick deliverable to demonstrate when I am done.
 
-High Entropy Dice Roll
+# High Entropy Dice Roll
 
 The web crypto API provides pretty good random numbers. The numbers have greater entropy and less bias. Here is a simple [JavaScript](https://www.thescottkrause.com/tags/javascript/) function that returns a random whole number between 1 and 6. Digital computers struggle to produce quality random numbers. They need a seed that represents something that is truly random like a dice throw. See how I brought it full circle. A computer needs a physical representation to create a true random value, even a digital dice would benefit from a physical dice throw. It’s a self referencing meta rabbit hole thought experiment.
 
