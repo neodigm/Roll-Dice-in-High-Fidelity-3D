@@ -26,7 +26,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
  <p align="center">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="55" alt="🏖️ Inspired Problem Solver 🚀 Visual Storyteller">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="55" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="55" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="55" alt="Vivid 👁️ D3 Parallax Three.js Greensock && WebGL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="55" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="55" alt="🏖️ Inspired Problem Solver 🚀 Visual Storyteller">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvperiod.svg" width="22" alt="Vivid Vector Skulduggery">
