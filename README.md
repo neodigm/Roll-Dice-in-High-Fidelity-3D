@@ -51,7 +51,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="3d dice">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="33" alt="🚀 TypeScript && Go">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="33" alt="3d dice">
