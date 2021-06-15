@@ -34,7 +34,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="55" alt="Vivid Vector 👁️ D3 Parallax Three.js Greensock && WebGL 🍭">
 <br>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="22" alt="3d dice">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="22" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="22" alt="DataVis 🚀 Micro Frontend 🚀 PWA">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="22" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="22" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="22" alt="3d dice">
@@ -105,7 +105,7 @@ console.log( getCryptoRange( 1, 6 ))
 
 
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🦄 Résumé](https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
+[🦄 Résumé](https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2021.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm55/) |
