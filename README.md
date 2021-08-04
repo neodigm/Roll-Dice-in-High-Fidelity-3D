@@ -131,7 +131,7 @@ console.log( getCryptoRange( 1, 6 ))
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vue_voyagers)
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript 🚀 Three.js 🍭 WASM ✨ PWA">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS">
   </a>
 </p>
 
