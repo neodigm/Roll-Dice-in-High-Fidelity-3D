@@ -19,7 +19,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="Vivid Vector 🌑🌒🌓🌔⭐🌖🌗🌘🌑 Skullduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="55" alt="Vivid Vector Skullduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="55" alt="Vivid Vector ✨ Cypress && JavaScript && TypeScript && Go 🪐">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="55" alt="Vivid Vector Skullduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="55" alt="Infographics UX PWA Typescript Svelte ThreeJS Vue ✨htmlx">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="55" alt="Vivid Vector 👁️ D3 Parallax Three.js Greensock && WebGL 🍭">
 </p>
 </summary>
@@ -60,7 +60,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="33" alt="3d dice">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="33" alt="3d dice">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="33" alt="3d dice">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="33" alt="Infographics UX PWA Typescript Svelte ThreeJS Vue ✨htmlx">
 </p>
 </details>
 
