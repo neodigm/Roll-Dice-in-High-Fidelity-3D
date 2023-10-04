@@ -14,7 +14,7 @@ It would be great to recreate the experience of actually rolling dice in the bro
 <details>
 <summary>
 <p align="center">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="55" alt="Vivid Vector Skullduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="55" alt="DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨ Vue  🚀 Svelte 🌶️ htmlx">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="55" alt="🚀TypeScript && Go">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="33" alt="Vivid Vector 🌑🌒🌓🌔⭐🌖🌗🌘🌑 Skullduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="55" alt="Vivid Vector Skullduggery">
