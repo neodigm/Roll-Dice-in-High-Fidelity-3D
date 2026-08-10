@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/emerging_tech/gameification-threejs-webcrypto-accelerator-blender-gltf/">
-  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive Gamified 3D JavaScript">
+  <img src="https://neodigm.github.io/Roll-Dice-in-High-Fidelity-3D/assets/gameification-threejs-webcrypto-accelerator-blender-gltf_tn.webp" title="Interactive Gamified 3D JavaScript UX Design System Lit Web Components PWA Vue ✨ HTMX">
   </a>
 </p>
 
